@@ -666,7 +666,3 @@ img {
   visibility: hidden;
   pointer-events: none;
 }
-
-.no-scroll {
-  overflow: hidden;
-}
